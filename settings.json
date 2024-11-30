@@ -1,0 +1,26 @@
+{
+    "last_date_updated": "01/01/2020",
+    "postgres": {
+        "server": "localhost",
+        "database": "avec_relatorio",
+        "username": "postgres",
+        "password": "0000",
+        "driver": "psqlodbcw.so"
+    },
+    "credentials": {
+        "email": "",
+        "password": ""
+    },
+    "excel_files": {
+        "Serviços": "",
+        "Campanhas": "",
+        "Financeiro": "",
+        "Profissionais": "",
+        "Agenda": "",
+        "Produtos": "",
+        "Integração": "",
+        "Auditoria": "",
+        "Clientes": "",
+        "Caixas": ""
+    }
+}
