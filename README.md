@@ -11,7 +11,7 @@ lista de códigos usados na versão final do software:
 - erase.py
 - google_sheet.py
 
-tutorial: [tutorial.mp4](tutorial.mp4)
+tutorial: [tutorial.mp4](https://github.com/gabriel-batistuta/Sheet-Getter-Avec/raw/refs/heads/master/tutorial.mp4)
 
 Pra fazer o arquivo .EXE 
 ```bash
